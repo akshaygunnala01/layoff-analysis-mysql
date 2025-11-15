@@ -1,9 +1,9 @@
-Layoff Trends Analysis Using MySQL
+# Layoff Trends Analysis Using MySQL
 
-This project explores global tech layoffs using SQL-based data cleaning and exploratory analysis. It leverages raw and cleaned datasets to uncover patterns in layoffs across industries, countries, funding stages, and time periods — all powered by MySQL.
+This project explores global tech layoffs using SQL-based data cleaning and exploratory analysis. It leverages raw and cleaned datasets to uncover patterns in layoffs across industries, countries, funding stages, and time periods(by MySQL).
 
 
-Files Description
+## Files Description
 
 - Data/layoffs.csv
   - Raw dataset containing global layoff records.
@@ -31,7 +31,7 @@ Files Description
 
 ---
 
-Project Structure
+## Project Structure
 
 - Data: Contains the layoff dataset (`layoffs.csv`) and optionally the cleaned dataset (`cleaned_data.csv`).
 - SQL: Includes SQL scripts for data cleaning and exploratory analysis.
@@ -40,6 +40,6 @@ Project Structure
 
 ---
 
-Insights
+## Insights
 
 The analysis reveals that layoffs were most concentrated in tech-heavy industries and late-stage startups, with the United States leading in total layoffs. Monthly and yearly trends show spikes during economic downturns, and a few companies consistently ranked among the top in workforce reductions.
